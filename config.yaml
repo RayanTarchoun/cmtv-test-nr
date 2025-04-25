@@ -1,0 +1,6 @@
+client_id: "M2M-EXT-MATRIX-E82A19B2F101AC56"
+client_secret: "20C6B99DA0C1D90C1A65EF3D8F4454DE276563FCE7431940E79B10B148494490"
+scope: "CMTV_PREPROD"
+url_ref: "https://live-prep-api-cmtv.mediametrie.com"
+url_version: "https://live-prep-api-cmtv.mediametrie.com"
+token_url: "https://myid.mediametrie.fr/IdPOAuth2/token/OIDC_m2m_external_prep"

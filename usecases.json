@@ -1,0 +1,515 @@
+{
+  "UsecaseN1": {
+    "cible": 17,
+    "dateDebutPeriode": "2024-05-13",
+    "dateFinPeriode": "2024-05-25",
+    "dateDebutPeriodeCTV": "2024-04-11",
+    "dateFinPeriodeCTV": "2024-05-15",
+    "grp": 408,
+    "pubIds": [
+      "FR_WRLD_LVCO_LEVI_0063_030_F"
+    ],
+    "couvertures": [
+      73.1,
+      55.8,
+      43.7
+    ],
+    "result": {
+      "type": "about:blank",
+      "title": "Unprocessable Entity",
+      "status": 422,
+      "detail": "Pour les paramètres saisis, des données ne sont pas disponibles",
+      "instance": "/api/analyses"
+    },
+    "http_code": 422
+  },
+  "UsecaseN2": {
+    "cible": 188,
+    "dateDebutPeriode": "2024-05-13",
+    "dateFinPeriode": "2024-05-25",
+    "dateDebutPeriodeCTV": "2024-05-13",
+    "dateFinPeriodeCTV": "2024-05-25",
+    "grp": 450,
+    "pubIds": [
+      "FR_BDDP_DEVI_BIJO_0016_030_F"
+    ],
+    "couvertures": [
+      74.3,
+      57.3,
+      45.6
+    ],
+    "result": {
+      "request": {
+        "cible": 188,
+        "dateDebutPeriode": "2024-05-13",
+        "dateFinPeriode": "2024-05-25",
+        "dateDebutPeriodeCTV": "2024-05-13",
+        "dateFinPeriodeCTV": "2024-05-25",
+        "couvertures": [
+          74.3,
+          57.3,
+          45.6
+        ],
+        "grp": 450,
+        "pubIds": [
+          "FR_BDDP_DEVI_BIJO_0016_030_F"
+        ]
+      },
+      "payload": {
+        "cible": {
+          "id": 188,
+          "label": "Individus 25-59 ans"
+        },
+        "periode": "13/05/2024 - 25/05/2024 (13 jours)",
+        "resultatsParCouverture": [
+          {
+            "global": 0.744,
+            "tv": 0.743,
+            "ctv": 0.006,
+            "apportsTv": 73.8,
+            "apportsCtv": 0.1,
+            "dupliquant": 0.5
+          },
+          {
+            "global": 0.573,
+            "tv": 0.573,
+            "ctv": 0.003,
+            "apportsTv": 57.0,
+            "apportsCtv": 0.0
+          },
+          {
+            "global": 0.456,
+            "tv": 0.456,
+            "ctv": 0.002,
+            "apportsTv": 45.4,
+            "apportsCtv": 0.0
+          }
+        ],
+        "source": "Audience et couverture modélisées",
+        "informations": [],
+        "infoProd": {
+          "regie": [
+            "Canal+ Brand Solutions",
+            "TF1 PUB"
+          ],
+          "pubIdWmk": [],
+          "pubIdLog": [
+            "FR_BDDP_DEVI_BIJO_0016_030_F"
+          ],
+          "notFoundPubIds": []
+        },
+        "impression": {
+          "ctv": 644418
+        },
+        "contact": {
+          "tv": 126265500.0,
+          "ctv": 410977.0
+        },
+        "contactRef": {
+          "ctv": 661964.0
+        },
+        "repetition": {
+          "tv": 6.1,
+          "ctv": 2.5
+        }
+      }
+    },
+    "http_code": 200
+  },
+  "UsecaseN3": {
+    "cible": 4010,
+    "dateDebutPeriode": "2024-04-01",
+    "dateFinPeriode": "2024-04-07",
+    "dateDebutPeriodeCTV": "2024-04-01",
+    "dateFinPeriodeCTV": "2024-04-07",
+    "grp": 395,
+    "pubIds": [
+      "FR_PIMU_ELCD_CYCL_0004_020_F"
+    ],
+    "couvertures": [
+      71.0,
+      58.4,
+      43.1
+    ],
+    "result": {
+      "type": "about:blank",
+      "title": "Unprocessable Entity",
+      "status": 422,
+      "detail": "Pour les paramètres saisis, des données ne sont pas disponibles",
+      "instance": "/api/analyses"
+    },
+    "http_code": 422
+  },
+  "UsecaseN4": {
+    "cible": 17,
+    "dateDebutPeriode": "2024-04-15",
+    "dateFinPeriode": "2024-06-02",
+    "dateDebutPeriodeCTV": "2024-04-15",
+    "dateFinPeriodeCTV": "2024-06-02",
+    "grp": 397,
+    "pubIds": [
+      "FR_HUFR_FRNF_CTOR_0005_010_F"
+    ],
+    "couvertures": [
+      70.8,
+      57.0,
+      44.0
+    ],
+    "result": {
+      "type": "about:blank",
+      "title": "Unprocessable Entity",
+      "status": 422,
+      "detail": "Pour les paramètres saisis, des données ne sont pas disponibles",
+      "instance": "/api/analyses"
+    },
+    "http_code": 422
+  },
+  "UsecaseN5": {
+    "cible": 4010,
+    "dateDebutPeriode": "2024-05-01",
+    "dateFinPeriode": "2024-06-02",
+    "dateDebutPeriodeCTV": "2024-05-01",
+    "dateFinPeriodeCTV": "2024-06-02",
+    "grp": 373,
+    "pubIds": [
+      "FR_ALPA_BPCE_RDFO_0009_020_F",
+      "FR_GRAP_CSSA_JBSC_0039_010_F"
+    ],
+    "couvertures": [
+      69.6,
+      54.0,
+      41.0
+    ],
+    "result": {
+      "request": {
+        "cible": 4010,
+        "dateDebutPeriode": "2024-05-01",
+        "dateFinPeriode": "2024-06-02",
+        "dateDebutPeriodeCTV": "2024-05-01",
+        "dateFinPeriodeCTV": "2024-06-02",
+        "couvertures": [
+          69.6,
+          54.0,
+          41.0
+        ],
+        "grp": 373,
+        "pubIds": [
+          "FR_ALPA_BPCE_RDFO_0009_020_F",
+          "FR_GRAP_CSSA_JBSC_0039_010_F"
+        ]
+      },
+      "payload": {
+        "cible": {
+          "id": 4010,
+          "label": "Individus 25-49 ans"
+        },
+        "periode": "01/05/2024 - 02/06/2024 (33 jours)",
+        "resultatsParCouverture": [
+          {
+            "global": 0.704,
+            "tv": 0.696,
+            "ctv": 0.05,
+            "apportsTv": 65.4,
+            "apportsCtv": 0.8,
+            "dupliquant": 4.2
+          },
+          {
+            "global": 0.547,
+            "tv": 0.54,
+            "ctv": 0.038,
+            "apportsTv": 50.8,
+            "apportsCtv": 0.7
+          },
+          {
+            "global": 0.416,
+            "tv": 0.41,
+            "ctv": 0.026,
+            "apportsTv": 39.0,
+            "apportsCtv": 0.6
+          }
+        ],
+        "source": "Audience calculée à partir des données panel et couverture modélisée",
+        "informations": [
+          {
+            "type": "chaineWarning",
+            "label": "Impressions totales délivrées hors impressions des campagnes TF1 MPI Hybride"
+          }
+        ],
+        "infoProd": {
+          "regie": [
+            "TF1 PUB",
+            "M6 Publicité"
+          ],
+          "pubIdWmk": [
+            "FR_ALPA_BPCE_RDFO_0009_020_F"
+          ],
+          "pubIdLog": [],
+          "notFoundPubIds": [
+            "FR_GRAP_CSSA_JBSC_0039_010_F"
+          ]
+        },
+        "impression": {},
+        "contact": {
+          "tv": 72749920.0,
+          "ctv": 3750773.0
+        },
+        "contactRef": {
+          "ctv": 9488647.0
+        },
+        "repetition": {
+          "tv": 5.4,
+          "ctv": 3.8
+        }
+      }
+    },
+    "http_code": 200
+  },
+  "UsecaseN6": {
+    "cible": 4116,
+    "dateDebutPeriode": "2024-04-16",
+    "dateFinPeriode": "2024-06-02",
+    "dateDebutPeriodeCTV": "2024-04-16",
+    "dateFinPeriodeCTV": "2024-06-02",
+    "grp": 390,
+    "pubIds": [
+      "FR_GRAP_CSSA_JBSC_0044_010_F",
+      "FR_HUFR_FRNF_NUII_0203_030_F"
+    ],
+    "couvertures": [
+      70.3,
+      57.0,
+      42.5
+    ],
+    "result": {
+      "type": "about:blank",
+      "title": "Unprocessable Entity",
+      "status": 422,
+      "detail": "Pour les paramètres saisis, des données ne sont pas disponibles",
+      "instance": "/api/analyses"
+    },
+    "http_code": 422
+  },
+  "UsecaseN7": {
+    "cible": 4010,
+    "dateDebutPeriode": "2024-05-16",
+    "dateFinPeriode": "2024-06-02",
+    "dateDebutPeriodeCTV": "2024-05-16",
+    "dateFinPeriodeCTV": "2024-06-02",
+    "grp": 331,
+    "pubIds": [
+      "FR_AUGS_AUGS_KNOW_0033_015_F",
+      "FR_HOGA_YOPF_PEFL_0003_014_F"
+    ],
+    "couvertures": [
+      66.3,
+      52.4,
+      39.7
+    ],
+    "result": {
+      "request": {
+        "cible": 4010,
+        "dateDebutPeriode": "2024-05-16",
+        "dateFinPeriode": "2024-06-02",
+        "dateDebutPeriodeCTV": "2024-05-16",
+        "dateFinPeriodeCTV": "2024-06-02",
+        "couvertures": [
+          66.3,
+          52.4,
+          39.7
+        ],
+        "grp": 331,
+        "pubIds": [
+          "FR_AUGS_AUGS_KNOW_0033_015_F",
+          "FR_HOGA_YOPF_PEFL_0003_014_F"
+        ]
+      },
+      "payload": {
+        "cible": {
+          "id": 4010,
+          "label": "Individus 25-49 ans"
+        },
+        "periode": "16/05/2024 - 02/06/2024 (18 jours)",
+        "resultatsParCouverture": [
+          {
+            "global": 0.665,
+            "tv": 0.663,
+            "ctv": 0.012,
+            "apportsTv": 65.3,
+            "apportsCtv": 0.2,
+            "dupliquant": 1.0
+          },
+          {
+            "global": 0.525,
+            "tv": 0.524,
+            "ctv": 0.006,
+            "apportsTv": 51.9,
+            "apportsCtv": 0.1
+          },
+          {
+            "global": 0.398,
+            "tv": 0.397,
+            "ctv": 0.003,
+            "apportsTv": 39.5,
+            "apportsCtv": 0.1
+          }
+        ],
+        "source": "Audience calculée à partir des données panel et couverture modélisée",
+        "informations": [
+          {
+            "type": "chaineWarning",
+            "label": "Impressions totales délivrées hors impressions des campagnes TF1 MPI Hybride"
+          }
+        ],
+        "infoProd": {
+          "regie": [
+            "TF1 PUB",
+            "M6 Publicité"
+          ],
+          "pubIdWmk": [
+            "FR_AUGS_AUGS_KNOW_0033_015_F"
+          ],
+          "pubIdLog": [],
+          "notFoundPubIds": [
+            "FR_HOGA_YOPF_PEFL_0003_014_F"
+          ]
+        },
+        "impression": {},
+        "contact": {
+          "tv": 64558240.0,
+          "ctv": 421096.0
+        },
+        "contactRef": {
+          "ctv": 912348.0
+        },
+        "repetition": {
+          "tv": 5.0,
+          "ctv": 1.8
+        }
+      }
+    },
+    "http_code": 200
+  },
+  "UsecaseN8": {
+    "cible": 188,
+    "dateDebutPeriode": "2024-06-03",
+    "dateFinPeriode": "2024-06-23",
+    "dateDebutPeriodeCTV": "2024-06-03",
+    "dateFinPeriodeCTV": "2024-06-23",
+    "grp": 341,
+    "pubIds": [
+      "FR_ERCO_IXIN_PROJ_0003_015_F"
+    ],
+    "couvertures": [
+      66.5,
+      49.8,
+      39.1
+    ],
+    "result": {
+      "request": {
+        "cible": 188,
+        "dateDebutPeriode": "2024-06-03",
+        "dateFinPeriode": "2024-06-23",
+        "dateDebutPeriodeCTV": "2024-06-03",
+        "dateFinPeriodeCTV": "2024-06-23",
+        "couvertures": [
+          66.5,
+          49.8,
+          39.1
+        ],
+        "grp": 341,
+        "pubIds": [
+          "FR_ERCO_IXIN_PROJ_0003_015_F"
+        ]
+      },
+      "payload": {
+        "cible": {
+          "id": 188,
+          "label": "Individus 25-59 ans"
+        },
+        "periode": "03/06/2024 - 23/06/2024 (21 jours)",
+        "resultatsParCouverture": [
+          {
+            "global": 0.681,
+            "tv": 0.665,
+            "ctv": 0.074,
+            "apportsTv": 60.6,
+            "apportsCtv": 1.6,
+            "dupliquant": 5.9
+          },
+          {
+            "global": 0.511,
+            "tv": 0.498,
+            "ctv": 0.043,
+            "apportsTv": 46.9,
+            "apportsCtv": 1.3
+          },
+          {
+            "global": 0.403,
+            "tv": 0.391,
+            "ctv": 0.028,
+            "apportsTv": 37.4,
+            "apportsCtv": 1.2
+          }
+        ],
+        "source": "Audience calculée à partir des données panel et couverture modélisée",
+        "informations": [
+          {
+            "type": "chaineWarning",
+            "label": "Impressions totales délivrées hors impressions des campagnes TF1 MPI Hybride"
+          }
+        ],
+        "infoProd": {
+          "regie": [
+            "FranceTV Publicité",
+            "RMC BFM Ads",
+            "TF1 PUB"
+          ],
+          "pubIdWmk": [
+            "FR_ERCO_IXIN_PROJ_0003_015_F"
+          ],
+          "pubIdLog": [],
+          "notFoundPubIds": []
+        },
+        "impression": {
+          "ctv": 3920225
+        },
+        "contact": {
+          "tv": 95681190.0,
+          "ctv": 5942047.0
+        },
+        "contactRef": {
+          "ctv": 10889618.0
+        },
+        "repetition": {
+          "tv": 5.1,
+          "ctv": 2.8
+        }
+      }
+    },
+    "http_code": 200
+  },
+  "UscaseN9": {
+    "cible": 4116,
+    "dateDebutPeriode": "2024-03-24",
+    "dateFinPeriode": "2024-06-02",
+    "dateDebutPeriodeCTV": "2024-04-01",
+    "dateFinPeriodeCTV": "2024-04-15",
+    "grp": 548,
+    "pubIds": [
+      "FR_PUCO_NEST_MARQ_0008_015_F"
+    ],
+    "couvertures": [
+      76.86373457,
+      61.90803297,
+      52.02082574
+    ],
+    "result": {
+      "type": "about:blank",
+      "title": "Unprocessable Entity",
+      "status": 422,
+      "detail": "Pour les paramètres saisis, des données ne sont pas disponibles",
+      "instance": "/api/analyses"
+    },
+    "http_code": 422
+  }
+}

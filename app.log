@@ -1,0 +1,30 @@
+2025-04-25 12:14:01,926 - INFO - Tentative de récupération du token...
+2025-04-25 12:14:03,429 - INFO - Token récupéré avec succès.
+2025-04-25 12:14:03,432 - INFO - Résultat existant trouvé pour le UsecaseN1
+2025-04-25 12:14:03,665 - WARNING - Erreur HTTP pour le UsecaseN1
+2025-04-25 12:14:03,665 - WARNING - Référence - Code HTTP : 422, Réponse : {'type': 'about:blank', 'title': 'Unprocessable Entity', 'status': 422, 'detail': 'Pour les paramètres saisis, des données ne sont pas disponibles', 'instance': '/api/analyses'}
+2025-04-25 12:14:03,665 - WARNING - Version - Code HTTP : 422, Réponse : {'type': 'about:blank', 'title': 'Unprocessable Entity', 'status': 422, 'detail': 'Pour les paramètres saisis, des données ne sont pas disponibles', 'instance': '/api/analyses'}
+2025-04-25 12:14:03,667 - INFO - Résultat existant trouvé pour le UsecaseN2
+2025-04-25 12:14:03,932 - INFO - Résultat mis à jour pour le UsecaseN2
+2025-04-25 12:14:03,934 - INFO - Résultat existant trouvé pour le UsecaseN3
+2025-04-25 12:14:03,981 - WARNING - Erreur HTTP pour le UsecaseN3
+2025-04-25 12:14:03,981 - WARNING - Référence - Code HTTP : 422, Réponse : {'type': 'about:blank', 'title': 'Unprocessable Entity', 'status': 422, 'detail': 'Pour les paramètres saisis, des données ne sont pas disponibles', 'instance': '/api/analyses'}
+2025-04-25 12:14:03,981 - WARNING - Version - Code HTTP : 422, Réponse : {'type': 'about:blank', 'title': 'Unprocessable Entity', 'status': 422, 'detail': 'Pour les paramètres saisis, des données ne sont pas disponibles', 'instance': '/api/analyses'}
+2025-04-25 12:14:03,982 - INFO - Résultat existant trouvé pour le UsecaseN4
+2025-04-25 12:14:04,032 - WARNING - Erreur HTTP pour le UsecaseN4
+2025-04-25 12:14:04,032 - WARNING - Référence - Code HTTP : 422, Réponse : {'type': 'about:blank', 'title': 'Unprocessable Entity', 'status': 422, 'detail': 'Pour les paramètres saisis, des données ne sont pas disponibles', 'instance': '/api/analyses'}
+2025-04-25 12:14:04,032 - WARNING - Version - Code HTTP : 422, Réponse : {'type': 'about:blank', 'title': 'Unprocessable Entity', 'status': 422, 'detail': 'Pour les paramètres saisis, des données ne sont pas disponibles', 'instance': '/api/analyses'}
+2025-04-25 12:14:04,032 - INFO - Résultat existant trouvé pour le UsecaseN5
+2025-04-25 12:14:04,297 - INFO - Résultat mis à jour pour le UsecaseN5
+2025-04-25 12:14:04,298 - INFO - Résultat existant trouvé pour le UsecaseN6
+2025-04-25 12:14:04,344 - WARNING - Erreur HTTP pour le UsecaseN6
+2025-04-25 12:14:04,344 - WARNING - Référence - Code HTTP : 422, Réponse : {'type': 'about:blank', 'title': 'Unprocessable Entity', 'status': 422, 'detail': 'Pour les paramètres saisis, des données ne sont pas disponibles', 'instance': '/api/analyses'}
+2025-04-25 12:14:04,344 - WARNING - Version - Code HTTP : 422, Réponse : {'type': 'about:blank', 'title': 'Unprocessable Entity', 'status': 422, 'detail': 'Pour les paramètres saisis, des données ne sont pas disponibles', 'instance': '/api/analyses'}
+2025-04-25 12:14:04,345 - INFO - Résultat existant trouvé pour le UsecaseN7
+2025-04-25 12:14:04,601 - INFO - Résultat mis à jour pour le UsecaseN7
+2025-04-25 12:14:04,602 - INFO - Résultat existant trouvé pour le UsecaseN8
+2025-04-25 12:14:04,878 - INFO - Résultat mis à jour pour le UsecaseN8
+2025-04-25 12:14:04,880 - INFO - Résultat existant trouvé pour le UscaseN9
+2025-04-25 12:14:04,934 - WARNING - Erreur HTTP pour le UscaseN9
+2025-04-25 12:14:04,934 - WARNING - Référence - Code HTTP : 422, Réponse : {'type': 'about:blank', 'title': 'Unprocessable Entity', 'status': 422, 'detail': 'Pour les paramètres saisis, des données ne sont pas disponibles', 'instance': '/api/analyses'}
+2025-04-25 12:14:04,934 - WARNING - Version - Code HTTP : 422, Réponse : {'type': 'about:blank', 'title': 'Unprocessable Entity', 'status': 422, 'detail': 'Pour les paramètres saisis, des données ne sont pas disponibles', 'instance': '/api/analyses'}
